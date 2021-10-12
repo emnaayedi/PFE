@@ -4,10 +4,10 @@ My end-of-studies internship is carried out at SOFTODO consisted of developing n
 ## ERP Modules
 ![Modules](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/modules.jpg?raw=true)
 ## Project Architecture
-![Arch] (https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/architecture.jpg?raw=true)
+![Arch](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/architecture.jpg?raw=true)
 ## Main Functionalities Developed
 **Automate digital data entry**
-![Excel] (https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/excel.jpg?raw=true)
+![Excel](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/excel.jpg?raw=true)
 **Create a transfer voucher between depots**
 ![transfer](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/transfert.jpg?raw=true)
 **Convert tickets to delivery**
