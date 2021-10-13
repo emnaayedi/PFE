@@ -11,7 +11,12 @@ My graduation internship is consisted of developing new functionalities and perf
 **Create a transfer voucher between stores**
 ![transfer](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/transfert.jpg?raw=true)
 **Convert tickets to delivery**
-![ticketdelivery](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/tickets.jpg?raw=true)
+![ticketdelivery](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/tickets.jpg?raw=true)</br>
+## Monitoring System
+**Application**
+![app](https://github.com/emnaayedi/PFE/blob/fa80a087e814ee5475a82bf32753e680d90f188d/screenshot/appmonitor.jpg?raw=true)
+**Server**
+1[server](https://github.com/emnaayedi/PFE/blob/fa80a087e814ee5475a82bf32753e680d90f188d/screenshot/servermonitor.jpg?raw=true)
 
 
 
