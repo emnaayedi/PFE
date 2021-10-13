@@ -8,7 +8,7 @@ My graduation internship is consisted of developing new functionalities and perf
 ## Main Functionalities Developed
 **Automate digital data entry**
 ![Excel](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/excel.jpg?raw=true)
-**Create a transfer voucher between depots**
+**Create a transfer voucher between stores**
 ![transfer](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/transfert.jpg?raw=true)
 **Convert tickets to delivery**
 ![ticketdelivery](https://github.com/emnaayedi/PFE/blob/7ce4f70655ef88e1ebca15f04ef26cb6b84064ff/screenshot/tickets.jpg?raw=true)
