@@ -15,7 +15,7 @@ My graduation internship is consisted of developing new functionalities and perf
 ## Monitoring System
 **Application**</br>
 ![app](https://github.com/emnaayedi/PFE/blob/fa80a087e814ee5475a82bf32753e680d90f188d/screenshot/appmonitor.jpg?raw=true)</br>
-**Server** < /br>
+**Server** </br>
 ![server](https://github.com/emnaayedi/PFE/blob/fa80a087e814ee5475a82bf32753e680d90f188d/screenshot/servermonitor.jpg?raw=true)
 
 
